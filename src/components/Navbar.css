@@ -1,0 +1,15 @@
+/* Navbar.css */
+
+.navbar {
+    background-color: #2f3640;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo-text {
+    font-weight: bold;
+    font-size: 1.5rem; /* Adjust font size as needed */
+    color: #fff;
+}
